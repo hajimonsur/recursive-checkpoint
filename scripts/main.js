@@ -74,7 +74,7 @@ function fibonacci(n) {
 //   console.log(fibonacci(10));
 
 
-//Power Function: Write a recursive function to calculate the result of raising a number to a given power.
+//Power Function: 
 
 function power(x, n) {
     if (n === 0) {
